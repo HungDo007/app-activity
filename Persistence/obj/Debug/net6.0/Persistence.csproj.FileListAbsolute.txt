@@ -1,0 +1,15 @@
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Practice\.NET-ReactJS\new-note-activity\Persistence\obj\Debug\net6.0\ref\Persistence.dll

@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Application\\Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\beeku\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\beeku\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Domain\\Domain.csproj"
+              },
+              "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Persistence\\Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\beeku\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\beeku\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\beeku\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\beeku\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
