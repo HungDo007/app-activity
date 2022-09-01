@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Vc2EBFSWaXQNjfZZW1SECm/Un/l3F4bLIpxGJ+4KcjaFhRUp1/sCrtDCGbIvQydHERskFeM15sAx/kkYQhxMUw==",
+  "dgSpecHash": "LzAPbFdqqDl/1Ph/AwSZ4iG8w1ZGjEql7oS/j4VnckZCRDscSOK8tWk6kdrt/M1ExRwoGV3zZrdXWualbwz0GA==",
   "success": true,
   "projectFilePath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\beeku\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\beeku\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\beeku\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\beeku\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\beeku\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\beeku\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\beeku\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\beeku\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.8\\microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
     "C:\\Users\\beeku\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "C:\\Users\\beeku\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.8\\microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",

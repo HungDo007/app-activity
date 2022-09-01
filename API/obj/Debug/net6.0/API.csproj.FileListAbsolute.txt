@@ -58,3 +58,8 @@ D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\runtimes\win-x64
 D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\Humanizer.dll
 D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\MediatR.dll
+D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\AutoMapper.dll
+D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
