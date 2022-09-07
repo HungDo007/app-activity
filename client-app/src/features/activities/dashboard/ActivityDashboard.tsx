@@ -3,10 +3,11 @@ import { Grid } from "semantic-ui-react";
 import { observer } from "mobx-react-lite";
 
 import { useStore } from "../../../app/stores/store";
-import ActivityDetail from "../details/ActivityDetail";
-import ActivityForm from "../form/ActivityForm";
+// import ActivityDetail from "../details/ActivityDetail";
+// import ActivityForm from "../form/ActivityForm";
 import ActivityList from "./ActivityList";
 import LoadingComponent from "../../../app/layout/LoadingComponent";
+import ActivityFilters from "./ActivityFilters";
 
 export default observer(function ActivityDashboard() {
   const { activityStore } = useStore();
@@ -29,7 +30,7 @@ export default observer(function ActivityDashboard() {
       <Grid.Column width={6}>
         {/* {selectedActivity && !editMode && <ActivityDetail />}
         {editMode && <ActivityForm />} */}
-        <h2>Activity filters</h2>
+        <ActivityFilters />
       </Grid.Column>
     </Grid>
   );

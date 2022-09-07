@@ -1,14 +1,15 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import App from './app/layout/App';
-import reportWebVitals from './reportWebVitals';
-
-import "./app/layout/styles.css";
-import { store, StoreContext } from "./app/stores/store";
+import React from "react";
+import ReactDOM from "react-dom/client";
+import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
+import { store, StoreContext } from "./app/stores/store";
+import "react-calendar/dist/Calendar.css";
+
+import App from "./app/layout/App";
+import "./app/layout/styles.css";
 
 const root = ReactDOM.createRoot(
-  document.getElementById('root') as HTMLElement
+  document.getElementById("root") as HTMLElement
 );
 root.render(
   <StoreContext.Provider value={store}>
