@@ -63,3 +63,6 @@ D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\MediatR.Contract
 D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\AutoMapper.dll
 D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\FluentValidation.dll
+D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
