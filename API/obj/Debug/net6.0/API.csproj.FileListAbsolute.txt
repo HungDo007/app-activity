@@ -81,3 +81,5 @@ D:\Practice\.NET-ReactJS\new-note-activity\api\bin\Debug\net6.0\Microsoft.Identi
 D:\Practice\.NET-ReactJS\new-note-activity\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Practice\.NET-ReactJS\new-note-activity\api\bin\Debug\net6.0\Infrastructure.dll
 D:\Practice\.NET-ReactJS\new-note-activity\api\bin\Debug\net6.0\Infrastructure.pdb
+D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\CloudinaryDotNet.dll
+D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\Newtonsoft.Json.dll
