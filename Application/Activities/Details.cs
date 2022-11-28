@@ -22,16 +22,16 @@ namespace Application.Activities
         public class Handler : IRequestHandler<Query, Result<ActivityDto>>
         {
             private readonly DataContext _context;
-        private readonly IMapper _mapper;
+            private readonly IMapper _mapper;
             public Handler(DataContext context, IMapper mapper)
             {
-            _mapper = mapper;
+                _mapper = mapper;
                 _context = context;
             }
 
             public async Task<Result<ActivityDto>> Handle(Query request, CancellationToken cancellationToken)
             {
-                var activity =  await _context.Activities
+                var activity = await _context.Activities
                 .ProjectTo<ActivityDto>(_mapper.ConfigurationProvider)
                 .FirstOrDefaultAsync(x => x.Id == request.Id);
 
