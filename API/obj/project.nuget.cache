@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RvTfFq5TOHD3/Ks+RHb0rgnBh8BbR/LMN7Up0G178Bv1ua/bblakLficH6UNL029J0YVw8qymjPg7WUtPSBZ7Q==",
+  "dgSpecHash": "wDhpVAvpl1Lv8mw3Za1J+DHm29BgqUM57BNVENPGW+/k6iXTLqEBsRj3QczgOo2iNUirbb/aR3plczodE8VV4Q==",
   "success": true,
-  "projectFilePath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\API\\API.csproj",
+  "projectFilePath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\beeku\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\beeku\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
