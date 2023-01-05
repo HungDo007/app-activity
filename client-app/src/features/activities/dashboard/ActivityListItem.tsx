@@ -3,7 +3,7 @@ import { Button, Icon, Item, Label, Segment } from "semantic-ui-react";
 import { format } from "date-fns";
 
 import { Activity } from "../../../app/models/activity";
-import ActivitiListItemAttendee from "./ActivitiListItemAttendee";
+import ActivitiListItemAttendee from "./ActivityListItemAttendee";
 
 interface Props {
   activity: Activity;

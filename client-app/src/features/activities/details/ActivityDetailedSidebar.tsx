@@ -28,7 +28,7 @@ export default observer(function ActivityDetailedSidebar({
         <List relaxed divided>
           {attendees.map((attendee) => (
             <Item style={{ position: "relative" }} key={attendee.username}>
-              {attendee.username == host?.username && (
+              {attendee.username === host?.username && (
                 <Label
                   style={{ position: "absolute" }}
                   color="orange"
