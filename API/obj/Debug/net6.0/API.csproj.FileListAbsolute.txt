@@ -83,3 +83,4 @@ D:\Practice\.NET-ReactJS\new-note-activity\api\bin\Debug\net6.0\Infrastructure.d
 D:\Practice\.NET-ReactJS\new-note-activity\api\bin\Debug\net6.0\Infrastructure.pdb
 D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\CloudinaryDotNet.dll
 D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Practice\.NET-ReactJS\new-note-activity\api\bin\Debug\net6.0\API.staticwebassets.runtime.json
