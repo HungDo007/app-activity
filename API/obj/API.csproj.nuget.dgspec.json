@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice\\.NET-ReactJS\\new-note-activity\\api\\API.csproj": {}
+    "D:\\Practice\\.NET-ReactJS\\new-note-activity\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Practice\\.NET-ReactJS\\new-note-activity\\api\\API.csproj": {
+    "D:\\Practice\\.NET-ReactJS\\new-note-activity\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\api\\API.csproj",
+        "projectUniqueName": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\api\\API.csproj",
+        "projectPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\API\\API.csproj",
         "packagesPath": "C:\\Users\\beeku\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\api\\obj\\",
+        "outputPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\beeku\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,6 +58,10 @@
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[6.23.1, )"
+            },
+            "NWebsec.AspNetCore.Middleware": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

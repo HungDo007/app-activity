@@ -87,3 +87,5 @@ D:\Practice\.NET-ReactJS\new-note-activity\api\bin\Debug\net6.0\API.staticwebass
 D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\Npgsql.dll
 D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\NWebsec.AspNetCore.Core.dll
+D:\Practice\.NET-ReactJS\new-note-activity\API\bin\Debug\net6.0\NWebsec.AspNetCore.Middleware.dll

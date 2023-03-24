@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PJ8B4buktj6lQAhvjudEgG30hpQIr8Z41m0cSYIsOnQvR/PaADCcA3Dw42s36eTIYPhgTD2Z06zJyqmFchX+Kw==",
+  "dgSpecHash": "9N1yMIVmsGY+3x86GWj/EaHUrMli8v0QQ1mq2rmGb0Yx9ei7mEec9Hw2n3ejkgIdM3oLYfB0LzvWPki87Ih4iw==",
   "success": true,
-  "projectFilePath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\api\\API.csproj",
+  "projectFilePath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\beeku\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\beeku\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
@@ -55,6 +55,8 @@
     "C:\\Users\\beeku\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\beeku\\.nuget\\packages\\npgsql\\6.0.8\\npgsql.6.0.8.nupkg.sha512",
     "C:\\Users\\beeku\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.8\\npgsql.entityframeworkcore.postgresql.6.0.8.nupkg.sha512",
+    "C:\\Users\\beeku\\.nuget\\packages\\nwebsec.aspnetcore.core\\3.0.0\\nwebsec.aspnetcore.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\beeku\\.nuget\\packages\\nwebsec.aspnetcore.middleware\\3.0.0\\nwebsec.aspnetcore.middleware.3.0.0.nupkg.sha512",
     "C:\\Users\\beeku\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
     "C:\\Users\\beeku\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
     "C:\\Users\\beeku\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",

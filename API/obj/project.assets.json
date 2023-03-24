@@ -813,6 +813,41 @@
           }
         }
       },
+      "NWebsec.AspNetCore.Core/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/NWebsec.AspNetCore.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/NWebsec.AspNetCore.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "NWebsec.AspNetCore.Middleware/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "NWebsec.AspNetCore.Core": "3.0.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/NWebsec.AspNetCore.Middleware.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/NWebsec.AspNetCore.Middleware.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "SQLitePCLRaw.bundle_e_sqlite3/2.0.6": {
         "type": "package",
         "dependencies": {
@@ -2221,6 +2256,32 @@
         "postgresql.png"
       ]
     },
+    "NWebsec.AspNetCore.Core/3.0.0": {
+      "sha512": "dvrs4Lvc7k98KKaMxKPHeOn0kONEIQpVrzweji9SLl9XEn1+XWVJe5f7mNvXoKPKjjcNuBIwVXr3K+g+DzZHEw==",
+      "type": "package",
+      "path": "nwebsec.aspnetcore.core/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netcoreapp3.1/NWebsec.AspNetCore.Core.dll",
+        "lib/netcoreapp3.1/NWebsec.AspNetCore.Core.xml",
+        "nwebsec.aspnetcore.core.3.0.0.nupkg.sha512",
+        "nwebsec.aspnetcore.core.nuspec"
+      ]
+    },
+    "NWebsec.AspNetCore.Middleware/3.0.0": {
+      "sha512": "sQJUG6zk/96UaAcFaf3fQuzjAS9rsf2fXyks1YlG4E3QOWl0h6nIO9fMzfKoskRA+abs01rV+6Kc5P7xccXlzw==",
+      "type": "package",
+      "path": "nwebsec.aspnetcore.middleware/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netcoreapp3.1/NWebsec.AspNetCore.Middleware.dll",
+        "lib/netcoreapp3.1/NWebsec.AspNetCore.Middleware.xml",
+        "nwebsec.aspnetcore.middleware.3.0.0.nupkg.sha512",
+        "nwebsec.aspnetcore.middleware.nuspec"
+      ]
+    },
     "SQLitePCLRaw.bundle_e_sqlite3/2.0.6": {
       "sha512": "zssYqiaucyGArZfg74rJuzK0ewgZiidsRVrZTmP7JLNvK806gXg6PGA46XzoJGpNPPA5uRcumwvVp6YTYxtQ5w==",
       "type": "package",
@@ -2856,6 +2917,7 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.9",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.8",
       "Microsoft.IdentityModel.Tokens >= 6.23.1",
+      "NWebsec.AspNetCore.Middleware >= 3.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3",
       "System.IdentityModel.Tokens.Jwt >= 6.23.1"
     ]
@@ -2866,11 +2928,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\API\\API.csproj",
+      "projectUniqueName": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\API\\API.csproj",
+      "projectPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\api\\API.csproj",
       "packagesPath": "C:\\Users\\beeku\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\API\\obj\\",
+      "outputPath": "D:\\Practice\\.NET-ReactJS\\new-note-activity\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\beeku\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2917,6 +2979,10 @@
           "Microsoft.IdentityModel.Tokens": {
             "target": "Package",
             "version": "[6.23.1, )"
+          },
+          "NWebsec.AspNetCore.Middleware": {
+            "target": "Package",
+            "version": "[3.0.0, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
